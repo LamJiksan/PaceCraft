@@ -34,11 +34,7 @@
 - **Auto‑saved settings**  
   - All text style preferences are stored in `config.json` and restored on next launch
 
----
 
-## 🖼️ Screenshot
-
-*(Add a screenshot of the application here)*
 
 ---
 
@@ -109,13 +105,13 @@
 
 ## 📂 File Structure
 
-PaceCraft/
-├── PaceCraft.py          # Main application script
-├── config.json           # Saved style preferences (auto‑generated)
-├── 1nether.png           # Optional built‑in backgrounds
-├── 2bastion.png
-├── ...
-└── README.md             # This file
+- PaceCraft/
+- ├── PaceCraft.py          # Main application script
+- ├── config.json           # Saved style preferences (auto‑generated)
+- ├── 1nether.png           # Optional built‑in backgrounds
+- ├── 2bastion.png
+- ├── ...
+- └── README.md             # This file
 
 ## 🛠️ Dependencies
 
@@ -137,7 +133,3 @@ PaceCraft/
 This project is open‑source and available under the [MIT License](LICENSE).
 
 ---
-
-## 🙌 Acknowledgements
-
-Created with ❤️ for the Minecraft speedrunning community.
